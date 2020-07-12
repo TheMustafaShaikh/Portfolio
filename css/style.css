@@ -1,10 +1,10 @@
 @font-face {
-    src: url(/fonts/Poppins-Medium.ttf);
-    font-family: "my-poppins";
+    src: url(/fonts/Poppins-Medium.ttf) !important;
+    font-family: my-poppins !important;
 }
 
 body {
-    font-family: "my-poppins";
+    font-family: "my-poppins" !important;
 }
 
 html {
