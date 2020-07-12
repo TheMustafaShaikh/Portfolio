@@ -1,0 +1,102 @@
+@font-face {
+    src: url(/fonts/Poppins-Regular.ttf);
+    font-family: my-poppins;
+}
+
+body {
+    font-family: "my-poppins";
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#navbarNav {
+    padding-left: 30%;
+}
+
+li a {
+    font-weight: 200;
+}
+
+.container-fluid {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.main {
+    height: 90vh;
+    margin: 0px;
+    padding: 40px;
+    text-align: center;
+    margin-top: 250px;
+}
+
+.head-name h1 {
+    font-weight: bolder;
+    font-size: 80px;
+}
+
+.desc p {
+    font-weight: 500 !important;
+}
+
+.all-skills {
+    text-align: center;
+    color: white;
+}
+
+.skills {
+    border: 3px solid white !important;
+    border-radius: 10px;
+    color: white;
+    width: 70px;
+    padding: 8px;
+}
+
+.skills-list {
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+#this {
+    text-align: center !important;
+    margin-top: 40px !important;
+}
+
+.skills:hover {
+    background-color: white;
+    color: black;
+}
+
+.wrapit {
+    padding: 20px;
+}
+
+a:hover {
+    outline: none;
+    text-decoration: none;
+    color: white;
+}
+
+.heading-testi {
+    padding-top: 50px;
+}
+
+.show-testi {
+    padding: 10px;
+    text-align: center !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.card {
+    margin-right: 100px !important;
+}
+
+.right {
+    color: white;
+    margin: 0px !important;
+}
