@@ -4,7 +4,7 @@
 }
 
 body {
-    font-family: "my-poppins" !important;
+    font-family: "Poppins" !important;
 }
 
 html {
@@ -30,6 +30,7 @@ li a {
     padding: 40px;
     text-align: center;
     margin-top: 250px;
+    overflow: hidden;
 }
 
 .head-name h1 {
